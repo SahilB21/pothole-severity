@@ -1,2 +1,2 @@
 # pothole-severity
-Repository for InspiritAI Pothole Severity Project
+Repository for Pothole Severity Project
